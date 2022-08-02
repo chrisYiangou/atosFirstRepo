@@ -1,0 +1,14 @@
+Within your teams I require you all to get into your groups:
+
+
+I want one person to make a repo and then that person must give 
+contribution access to the other members in their team
+
+After this ensure you have a dev branch -- and on this each member should make 
+a feature branch f-<Name> 
+
+Once this is all complete Merge the feature into dev and then --- Make a pull Request
+to accept dev into main
+
+Once done show me your network graph and I shall access whether or not you followed the FBM
+ 
